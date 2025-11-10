@@ -1,0 +1,13 @@
+.sf/
+.sfdx/
+.localdev/
+/IlluminatedCloud/
+/out/
+target/
+node_modules/
+/.illuminatedCloud/
+.idea/
+.codebuddy/
+**/tsconfig*.json
+**/*.tsbuildinfo
+**/graphql.config.yml
